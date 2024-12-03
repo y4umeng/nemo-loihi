@@ -11,7 +11,7 @@ import collections
 import math
 import types
 
-from utils import TopKHebbianNode
+from .utils import TopKHebbianNode
 
 # Configurable assembly model for simulations
 # Author Yau-Meng Wong, 2024
